@@ -1,0 +1,10 @@
+{
+    "timestamp": "2026-02-01T17:43:34.387895",
+    "total_duration": 4.609999999999999,
+    "sla_status": "DENTRO_DO_SLA",
+    "details": {
+        "api": "success",
+        "web": "success",
+        "vagas_encontradas": "Vagas: 0116 - Assessor(a) de Planejamento Estrat\u00e9gico - Sede Administrativa - Porto Alegre - RS, 0211 - Assistente de Neg\u00f3cios PF - Sicredi Coopera\u00e7\u00e3o \u2013 Carazinho Sul/ RS, 0228 - Assessor de Neg\u00f3cios - Sede - Rio do Sul/SC"
+    }
+}
