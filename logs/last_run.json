@@ -1,6 +1,6 @@
 {
-    "timestamp": "2026-02-01T17:43:34.387895",
-    "total_duration": 4.609999999999999,
+    "timestamp": "2026-02-01T18:49:46.613634",
+    "total_duration": 5.550000000000001,
     "sla_status": "DENTRO_DO_SLA",
     "details": {
         "api": "success",
